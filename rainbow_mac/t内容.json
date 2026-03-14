@@ -1,0 +1,14 @@
+{
+    "params": {
+        "width": "10",
+        "color": "#FFFF00",
+        "font_size": "25",
+        "font_color": "#FF0000",
+        "text_tl": "回",
+        "text_tr": "哈哈",
+        "text_bl": "请求",
+        "text_br": "1 "
+    },
+    "is_rgb": true,
+    "speed": 0.034927745664739884
+}
