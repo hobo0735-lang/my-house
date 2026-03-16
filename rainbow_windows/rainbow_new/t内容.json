@@ -1,0 +1,15 @@
+{
+    "params": {
+        "width": "60",
+        "color": "#FFFF00",
+        "font_size": "25",
+        "font_color": "#FF0000",
+        "text_tl": "",
+        "text_tr": "",
+        "text_bl": "",
+        "text_br": "",
+        "hotkey": "ctrl+caps+["
+    },
+    "is_rgb": true,
+    "speed": 0.04
+}
