@@ -19,11 +19,21 @@ pip install keyboard
 4.开关快捷键：f9
 
 mac版本
-运行代码并授权（Mac 用户最关键的一步）
+1安装依赖
+在终端中运行以下命令安装必要的库：
+pip install keyboard
+
+2运行代码并授权（Mac 用户最关键的一步）
 macOS 对隐私保护非常严格，默认是不允许任何程序监听键盘按键的。
+
 启动程序：在你的编辑器（如 VS Code）或终端中运行刚才那段代码。
+
 触发授权：你会发现程序运行了，但按快捷键没反应。
+
 前往设置：
+
 打开 系统设置 (System Settings) -> 隐私与安全性 (Privacy & Security) -> 辅助功能 (Accessibility)。
+
 点击下方的 + 号，找到并添加你正在使用的工具（比如 终端/Terminal、VS Code 或 PyCharm）。
-确保开关处于开启状态。
+
+确保开关处于开启状态。。
