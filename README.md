@@ -17,7 +17,6 @@ windows无修改快捷键版（位于rainbow/rainbow_old）
 pip install keyboard
 
 3. 使用：打开代码，复制到本地项目，并在项目目录建一个json文件，命名为t内容，然后再运行代码，在弹出的界面中选好属性再点击应用设置并固定到文件即可
-
 4. 开关快捷键：f9
 
 
