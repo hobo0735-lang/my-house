@@ -8,7 +8,7 @@
   2. 实时滑动条调节流光速度。
   3. 自定义边框粗细与字体大小。
 
-windows版本
+windows无修改快捷键版（位于rainbow/rainbow_old）
 1. 环境准备
 确保你的电脑已安装 Python、
 
@@ -22,7 +22,8 @@ pip install keyboard
 
 
 
-mac版本
+mac版本（可修改快捷键版），位于rainbow_mac目录下的mac_new里
+
 1安装依赖
 在终端中运行以下命令安装必要的库：
 pip install keyboard
