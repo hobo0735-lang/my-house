@@ -1,0 +1,15 @@
+{
+    "params": {
+        "width": "400",
+        "color": "#00ff80",
+        "font_size": "28",
+        "font_color": "#ff8000",
+        "text_tl": "天很热，晴天也会转凉",
+        "text_tr": "心很暖，雨水也会散乱",
+        "text_bl": "人很忙，什么都不愿想",
+        "text_br": "不愿想，什么又都要想",
+        "hotkey": "f7"
+    },
+    "is_rgb": true,
+    "speed": 0.001
+}
