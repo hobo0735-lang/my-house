@@ -19,4 +19,6 @@ env/                  # 同上
 .vscode/              # VS Code 的配置（如果你不希望别人看到你的编辑器设置）
 .idea/                # PyCharm 的配置
 .DS_Store             # Mac 系统的隐藏文件
-Thumbs.db             # Windows 的缩略图缓存
+Thumbs.db             # Windows 的缩略图缓存.idea/
+build/
+*.spec

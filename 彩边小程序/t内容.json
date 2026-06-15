@@ -1,13 +1,13 @@
 {
-    "width": "10",
-    "color": "#FFFF00",
+    "width": "100",
+    "color": "#ffff80",
     "font_size": "30",
     "font_color": "#FFFFFF",
     "hotkey": "f9",
     "prev_key": "page up",
     "next_key": "page down",
-    "is_rgb": true,
-    "speed_level": 3,
+    "is_rgb": false,
+    "speed_level": 100,
     "library": [
         "初衷不变",
         "岁月如歌",
@@ -30,7 +30,7 @@
         "text_tr": "",
         "text_bl": "",
         "text_br": "",
-        "hotkey": "ctrl+["
+        "hotkey": "f9"
     },
-    "speed": 0.04
+    "speed": 0.003
 }
